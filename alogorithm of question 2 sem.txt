@@ -1,0 +1,11 @@
+1)start.
+2)enter the no.of elements in the firsrt row (r1).
+3)enter the no.of elements in the first column(c1).
+4)enter the no.of elements in the second row(r2).
+5)enter the no.of elements in second column(c2).
+6)sum=r1+r2+c1+c2.
+7)sum%2==0 then
+8)print same colour
+9)sum%2is not equal to 0 then
+9)print different colour
+10)stop.
