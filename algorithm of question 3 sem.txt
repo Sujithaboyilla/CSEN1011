@@ -1,0 +1,12 @@
+1)start.
+2)Enter the mobile number.
+3)if moblie number has more than 10 digits then 
+4)print "Invalid entry".
+5)Enter the no.of items.
+6)Enter the quantity.
+7)Enter the rate.
+8)total=quantitiy*rate
+9)final=final +total
+10)if final>0  then print total price
+11)if final<0 then print "invalid amount"
+12)stop.
