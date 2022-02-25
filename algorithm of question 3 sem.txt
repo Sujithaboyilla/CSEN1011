@@ -8,5 +8,5 @@
 8)total=quantitiy*rate
 9)final=final +total
 10)if final>0  then print total price
-11)if final<0 then print "invalid amount"
+11)if final<0 then print invalid amount
 12)stop.
