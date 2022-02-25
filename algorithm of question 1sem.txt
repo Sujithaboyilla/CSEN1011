@@ -1,0 +1,9 @@
+1)start.
+2)enter the no.of boys(b).
+3)enter theno.of girls(g).
+4)no.ofboys+no.of girls=10.
+5)if no.of boys<no.of girls then
+6)print("Invalid").
+7)if no.of boys>no.of girls then
+8)no.of ways in which all friends stand in line with no two girls stand next to each other=fact(b)fact(b+1)/fact(b-g).
+9)stop. 
